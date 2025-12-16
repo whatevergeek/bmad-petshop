@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bmad-exploration/brownfield-backend"
+		},
+		{
+			"path": "../bmad-exploration/brownfield-frontend"
+		}
+	],
+	"settings": {}
+}
